@@ -1,4 +1,5 @@
-title: My Portfolio
+title: Ralph Gonzalvo's Portfolio
+description: "Welcome to my personal site showcasing my projects and experience."
 theme: minima
 plugins:
   - jekyll-seo-tag
