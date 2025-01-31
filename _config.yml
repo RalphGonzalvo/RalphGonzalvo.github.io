@@ -1,3 +1,4 @@
-
-title: MySite
-theme: jekyll-theme-time-machine
+title: My Portfolio
+theme: minima
+plugins:
+  - jekyll-seo-tag
