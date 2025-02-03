@@ -5,14 +5,13 @@ title: Home
 
 # 👋 Welcome to My Portfolio
 
-Hi, I'm Ralph Gonzalvo, a software developer passionate about building things with Java, Spring Boot, and game development.
+Hi, I'm Ralph Gonzalvo, a software developer passionate about building things with Java, I've worked on projects in the Fintech Indsutry and Aerospace Software Engineering focusing on UAV's and UAM's.
 
 ## 💡 Projects
-- [Project 1](https://github.com/yourproject1)
-- [Project 2](https://github.com/yourproject2)
+
 
 ## 📩 Contact
 - [GitHub](https://github.com/RalphGonzalvo)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/ralphgonzalvo/)
 
 ---
