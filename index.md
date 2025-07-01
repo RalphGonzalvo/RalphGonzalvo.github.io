@@ -1,17 +1,9 @@
 ---
-layout: default
-title: Home
+layout: home
+title: "Home"
 ---
 
-# 👋 Welcome to My Portfolio
+Welcome! 👋  
+This is the portfolio/resume site of Ralph Gonzalvo, a software engineer based in Japan.
 
-Hi, I'm Ralph Gonzalvo, a software developer passionate about building things with Java. I've worked on projects in the fintech industry and aerospace software engineering, focusing on UAVs and UAMs.
-
-## 💡 Projects
-
-
-## 📩 Contact
-- [GitHub](https://github.com/RalphGonzalvo)
-- [LinkedIn](https://www.linkedin.com/in/ralphgonzalvo/)
-
----
+Check out my [projects](./projects) or contact me at [GitHub](https://github.com/RalphGonzalvo).

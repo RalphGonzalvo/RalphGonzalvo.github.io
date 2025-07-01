@@ -1,5 +1,12 @@
-title: Ralph Gonzalvo's Portfolio
-description: "Welcome to my personal site showcasing my projects and experience."
+title: Ralph Gonzalvo
+author: Ralph Gonzalvo
+email: ralphgonzalvo(@)gmail.com
+description: >-
+  Software Engineer in Japan. Passionate about coding. Always developing random ideas.
 theme: minima
-plugins:
-  - jekyll-seo-tag
+
+baseurl: ""
+url: "https://ralphgonzalvo.github.io"
+
+# Optional
+github_username: RalphGonzalvo
