@@ -1,0 +1,9 @@
+---
+---
+
+@import "minima/skins/dark";
+@import "minima/initialize";
+
+a[href*="feed.xml"] {
+  display: none !important;
+}

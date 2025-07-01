@@ -1,7 +1,19 @@
 title: Ralph Gonzalvo
-author: Ralph Gonzalvo
-description: >
+author:
+  name: Ralph Gonzalvo
+  url: https://github.com/RalphGonzalvo
+
+description: >-
   Software Engineer in Japan. Building cool things. Always developing random ideas.
-remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+  social_links:
+    - { title: "GitHub", url: "https://github.com/RalphGonzalvo", icon: "github" }
+  hide_site_feed_link: true
+
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
+
+include:
+  - assets
