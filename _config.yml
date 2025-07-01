@@ -1,12 +1,7 @@
 title: Ralph Gonzalvo
 author: Ralph Gonzalvo
-email: ralphgonzalvo(@)gmail.com
-description: >-
-  Software Engineer in Japan. Passionate about coding. Always developing random ideas.
-theme: minima
-
-baseurl: ""
-url: "https://ralphgonzalvo.github.io"
-
-# Optional
-github_username: RalphGonzalvo
+description: >
+  Software Engineer in Japan. Building cool things. Always developing random ideas.
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
