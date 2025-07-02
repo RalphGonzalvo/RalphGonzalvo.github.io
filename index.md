@@ -1,9 +1,13 @@
 ---
 layout: home
-title: "Home"
 ---
+![MtFuji](../images/mt-fuji.jpg)
 
-Welcome! 👋  
-This is the portfolio/resume site of Ralph Gonzalvo, a software engineer based in Japan.
+<h1>Hi, I'm Ralph 👋</h1>
+<p>Software Engineer in Japan. I build clean, functional apps and love turning ideas into working software.</p>
+<a href="/projects">Check out my projects →</a>
 
-Check out my [projects](/projects) or contact me at [GitHub](https://github.com/RalphGonzalvo).
+<a class="button" href="/projects">View Projects</a>
+<a class="button-outline" href="https://github.com/RalphGonzalvo">GitHub</a>
+
+<h1>Content</h1>

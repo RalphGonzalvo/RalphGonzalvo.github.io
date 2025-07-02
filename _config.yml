@@ -6,14 +6,18 @@ author:
 description: >-
   Software Engineer in Japan. Building cool things. Always developing random ideas.
 
+remote_theme: jekyll/minima@1e8a445
+
 minima:
   skin: dark
   social_links:
     - { title: "GitHub", url: "https://github.com/RalphGonzalvo", icon: "github" }
-  hide_site_feed_link: true
+  navigation:
+    - title: "Projects"
+      url: "/projects/"
+    - title: "About"
+      url: "/about/"
 
 plugins:
   - jekyll-seo-tag
-
-include:
-  - assets
+  - jekyll-remote-theme
