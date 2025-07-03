@@ -21,7 +21,7 @@ minima:
 
 author:
   name: Ralph Gonzalvo
-  email: ralphgonzalvo(@)gmail.com
+  email: rvacgonzalvo@gmail.com
 
 plugins:
   - jekyll-seo-tag
