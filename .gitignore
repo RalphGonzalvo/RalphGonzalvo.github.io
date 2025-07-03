@@ -1,31 +1,27 @@
-# Build output
+# Jekyll build outputs
 _site/
-.sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.sass-cache/
 
 # System files
 .DS_Store
 Thumbs.db
 
-# Ruby-related
-*.gem
-*.rbc
-.bundle/
-vendor/
-Gemfile.lock
-
-# Log files
+# Logs
 *.log
 
-# IDEs/editors
+# Ruby/Bundle
+.bundle/
+vendor/
+*.gem
+Gemfile.lock
+
+# Editor/IDE
 .vscode/
 .idea/
 *.swp
-*.swo
 
-# Node-related (if using npm for assets)
+# Node/npm
 node_modules/
 package-lock.json
-
-_site/
