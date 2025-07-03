@@ -14,5 +14,4 @@ In my free time, I explore ideas, build tools and games, and try to keep things 
 
 ---
 
-📫 [rvacgonzalvo@gmail.com](mailto:rvacgonzalvo@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK) • [GitHub](https://github.com/RalphGonzalvo)
