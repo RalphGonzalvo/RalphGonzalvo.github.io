@@ -12,11 +12,16 @@ minima:
   skin: dark
   social_links:
     - { title: "GitHub", url: "https://github.com/RalphGonzalvo", icon: "github" }
+    - { title: "LinkedIn", url: "https://www.linkedin.com/in/ralphgonzalvo/", icon: "linkedin" }
   navigation:
     - title: "Projects"
       url: "/projects/"
     - title: "About"
       url: "/about/"
+
+author:
+  name: Ralph Gonzalvo
+  email: ralphgonzalvo(@)gmail.com
 
 plugins:
   - jekyll-seo-tag
