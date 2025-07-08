@@ -6,6 +6,8 @@ permalink: /projects/
 
 ## Projects
 
+![IDE](../images/IDE.png)
+
 ### UAS Implementation for Air Traffic Management in Japan (2024–2025)
 Contributed to the design and backend development of an Unmanned Aerial System (UAS) for air traffic management, commissioned by a major Japanese corporation. Focused on implementing core business logic and integrating cloud-based services for scalability and performance.
 
@@ -33,13 +35,21 @@ Backend Development, Financial Messaging Standards, Integration Testing, Agile C
 ---
 
 ### IMU Noise Filtering and AR Integration (Undergrad Thesis, 2019)
-Developed and presented an internationally recognized research project on improving motion tracking accuracy by applying noise filtering on commercial-grade IMU (Inertial Measurement Unit) data. Integrated double integration models in AR environments for real-time application on mobile platforms using Unity and ARCore. Published and presented in Taiwan as part of an academic research conference.
 
-**Tech:**  
-Python, Jupyter Notebook, Unity C#, ARCore, Android Studio
+<div style="overflow: hidden;">
+  <img src="../images/me2.png" alt="Ralph" style="float: right; width: 300px; margin: 0 0 10px 20px; border-radius: 8px;"/>
 
-**Skills:**  
-Research & Development, Sensor Fusion, AR Prototyping, Data Processing, Cross-Platform Development
+  Developed and presented an internationally recognized research project on improving motion tracking accuracy by applying noise filtering on commercial-grade IMU (Inertial Measurement Unit) data. Integrated double integration models in AR environments for real-time application on mobile platforms using Unity and ARCore. Published and presented in Taiwan as part of an academic research conference.
+
+  <br><br>
+  <strong>Tech:</strong><br>
+  Python, Jupyter Notebook, Unity C#, ARCore, Android Studio
+
+  <br><br>
+  <strong>Skills:</strong><br>
+  Research & Development, Sensor Fusion, AR Prototyping, Data Processing, Cross-Platform Development
+</div>
+
 
 ---
 
