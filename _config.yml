@@ -1,27 +1,47 @@
 title: Ralph Gonzalvo
-author:
-  name: Ralph Gonzalvo
-  url: https://github.com/RalphGonzalvo
-
 description: >-
   Software Engineer in Japan. Building cool things. Always developing random ideas.
 
 remote_theme: jekyll/minima@1e8a445
+
+author:
+  name: Ralph Gonzalvo
+  url: https://github.com/RalphGonzalvo
 
 minima:
   skin: dark
   social_links:
     - { title: "GitHub", url: "https://github.com/RalphGonzalvo", icon: "github" }
     - { title: "LinkedIn", url: "https://www.linkedin.com/in/ralphgonzalvo/", icon: "linkedin" }
-  navigation:
-    - title: "Projects"
-      url: "/projects/"
-    - title: "About"
-      url: "/about/"
-
-author:
-  name: Ralph Gonzalvo
 
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "ja"]
+default_lang: "en"
+
+exclude_from_localizations:
+  - index.md
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: "_pages/en"
+      type: pages
+    values:
+      lang: "en"
+  - scope:
+      path: "_pages/ja"
+      type: pages
+    values:
+      lang: "ja"
+  - scope:
+      path: ""
+    values:
+      lang: "en"

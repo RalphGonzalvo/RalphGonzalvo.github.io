@@ -1,0 +1,11 @@
+en:
+  - title: "Experience"
+    url: "/experience/"
+  - title: "About"
+    url: "/about/"
+
+ja:
+  - title: "プロジェクト"
+    url: "/ja/projects/"
+  - title: "自己紹介"
+    url: "/ja/about/"
