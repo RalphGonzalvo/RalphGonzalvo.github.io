@@ -9,9 +9,10 @@ permalink: /experience/
 
 ## Professional Summary
 
-- 4 years building aerospace R&D systems and global financial infrastructure
-- Owns backend features end-to-end within Japanese enterprise SDLC environments
-- Deep experience with transactional systems, database design, messaging stacks, and AWS-based automation
+- Software engineer with experience in aerospace R&D systems, banking payment infrastructure, and enterprise backend development
+- Builds backend features end-to-end across requirements, database design, design documentation, implementation, testing, and pull requests
+- Strong background in transactional systems, relational databases, messaging integrations, and AWS-based automation
+- Experienced working in Japanese enterprise SDLC environments using 基本設計 / 詳細設計 and CI-based review workflows
 
 ---
 
@@ -30,33 +31,36 @@ PostgreSQL, CockroachDB, DB2, Oracle, SQL Server
 MQTT, IBM MQ, JSON APIs
 
 **Cloud & Infrastructure:**  
-AWS (EC2, Lambda, IAM, CloudWatch, VPC, Elastic IP), Docker, Linux
+AWS EC2, AWS Lambda, IAM, CloudWatch, VPC, Elastic IP, Docker, Linux
 
 **Tools & Workflow:**  
-Git, Gradle, Jenkins, Postman, CI-based PR workflow
+Git, Gradle, Jenkins, Postman, CI-based pull request workflow
 
 **Process:**  
-Japanese SDLC (基本設計 / 詳細設計), Agile Scrum
+Japanese SDLC, 基本設計, 詳細設計, Agile Scrum
 
 ---
 
 ## Professional Experience
 
-### Backend Engineer – Aerospace / UAS Systems (2024–Present)
-Client: NEC (via ADI, Haken)
+### Backend Engineer – Aerospace / UAS Systems  
+**2024–Present**  
+**Employment:** ADI, dispatch / client-site assignment
 
-Worked across multiple aerospace R&D systems including flying car UAS infrastructure, air traffic management platforms, and drone safety & routing systems in Japan.
+Worked on aerospace R&D systems in Japan, including UAS infrastructure, air traffic management platforms, drone safety systems, and routing-related backend features.
 
 **Responsibilities:**
-- Owned backend features end-to-end (**Requirements** → **DB design** → **基本設計 / 詳細設計** → **Implementation** → **Testing** → **PR**)
-- Designed relational database schemas (PostgreSQL, CockroachDB)
-- Implemented transactional business logic using Spring Boot (`@Transactional`)
-- Developed REST APIs aligned with OpenAPI specifications
+
+- Owned backend features end-to-end from requirements analysis to implementation, testing, documentation, and pull request review
+- Designed and updated relational database schemas using PostgreSQL and CockroachDB
+- Implemented transactional backend logic using Java, Spring Boot, MyBatis, and `@Transactional`
+- Developed REST APIs based on OpenAPI specifications
 - Implemented MQTT-based messaging and asynchronous processing components
-- Optimized SQL queries and pagination for large datasets
-- Implemented operational safety validation logic
-- Produced technical documentation in Japanese
-- Collaborated within a 20-engineer multi-company Japanese team
+- Created and maintained backend validation logic for operational safety requirements
+- Optimized SQL queries, pagination, and database access patterns for large datasets
+- Produced Japanese technical documentation, including 基本設計 and 詳細設計 materials
+- Collaborated with a multi-company Japanese engineering team of approximately 20 engineers
+- Worked within enterprise review workflows using Git, Gradle, CI, and pull request-based development
 
 | Focus | Stack |
 | --- | --- |
@@ -66,18 +70,22 @@ Worked across multiple aerospace R&D systems including flying car UAS infrastruc
 
 ---
 
-### Backend Engineer – Finastra (2019–2022)
-Banking Payment Systems
+### Backend Engineer – Banking Payment Systems  
+**2019–2022**  
+**Company:** Finastra  
+**Product:** Payment Fusion
 
-Backend development for Payment Fusion serving large commercial banks worldwide.
+Worked on backend development for Payment Fusion, a banking payment platform used by large commercial banks worldwide.
 
 **Responsibilities:**
-- Implemented payment product features compliant with SWIFT, SEPA, and QATCH standards
-- Developed financial message flow logic using IBM MQ
-- Ensured compatibility across DB2, Oracle, and SQL Server
-- Provided real-time production support for banking client environments
-- Collaborated directly with bank-side engineers during deployments
-- Participated in Agile sprint cycles and release coordination
+
+- Implemented payment product features for international banking environments
+- Developed backend logic for payment message processing and financial transaction flows
+- Built and maintained IBM MQ-based messaging integrations
+- Ensured database compatibility across DB2, Oracle, and SQL Server
+- Supported production banking client environments during releases and operational issues
+- Collaborated directly with bank-side engineers during deployment and support activities
+- Participated in Agile sprint planning, implementation, testing, and release coordination
 
 | Focus | Stack |
 | --- | --- |
@@ -90,39 +98,47 @@ Backend development for Payment Fusion serving large commercial banks worldwide.
 
 ## Education & Development
 
-### Japanese Language Studies – Kyoto (2022–2024)
-Full-time Japanese language study focused on business communication and professional integration in Japan.
+### Japanese Language Studies – Kyoto  
+**2022–2024**
+
+Completed full-time Japanese language study focused on business communication, workplace communication, and professional integration in Japan.
 
 ---
 
 ## Selected Engineering Projects
 
-### AWS-Based Server Automation Platform with Discord Integration (Ongoing)
+### AWS-Based Server Automation Platform with Discord Integration  
+**Ongoing**
 
-Designed and implemented an event-driven AWS infrastructure to automatically manage multiplayer servers through a Discord bot integrated with AWS Lambda.
+Designed and implemented an event-driven AWS automation platform for managing multiplayer game servers through a Discord bot integrated with AWS Lambda.
 
 **Key Contributions:**
-- **Automation & Control:** Discord bot slash commands trigger AWS Lambda workflows, with EC2 start/stop orchestration and lifecycle rules tied to active players.
-- **Cost & Monitoring:** Integrated AWS Cost Explorer for month-to-date visibility, tuned instance families (t2/t3a/t3g/c6a) for CPU-credit efficiency, and aligned runtime with usage patterns to cut spend.
-- **Infrastructure & Ops:** Managed Elastic IPs, VPC networking, and IAM; automated Linux server provisioning via SSH to keep multiplayer hosts patched and healthy.
 
-Tech Stack
-: AWS EC2, AWS Lambda, IAM, CloudWatch, Cost Explorer API, VPC, Elastic IP, Linux, Python (boto3), Discord API, SSH
+- Built Discord slash commands that trigger AWS Lambda workflows for EC2 start / stop operations
+- Automated server lifecycle management based on active player usage patterns
+- Integrated AWS Cost Explorer to monitor month-to-date cloud spending
+- Tuned EC2 instance families, including t2, t3a, t3g, and c6a, for cost and CPU-credit efficiency
+- Managed Elastic IPs, VPC networking, IAM permissions, and Linux server provisioning
+- Used SSH-based automation to keep multiplayer server hosts updated and operational
+
+**Tech Stack:**  
+AWS EC2, AWS Lambda, IAM, CloudWatch, Cost Explorer API, VPC, Elastic IP, Linux, Python, boto3, Discord API, SSH
 
 ---
 
-### IMU Noise Filtering and AR Integration (Undergraduate Thesis, 2019)
+### IMU Noise Filtering and AR Integration  
+**Undergraduate Thesis, 2019**
 
-Research project focused on improving motion tracking through sensor fusion and filtering algorithms.
+Research project focused on improving motion tracking accuracy through sensor fusion and filtering algorithms.
 
-Tech Stack
-: Python, Jupyter Notebook, Unity (C#), ARCore, Android Studio
+**Tech Stack:**  
+Python, Jupyter Notebook, Unity, C#, ARCore, Android Studio
 
 ---
 
 ### Portfolio Site
 
-This website built using Jekyll and GitHub Pages.
+Personal portfolio website built with Jekyll and GitHub Pages.
 
-Tech Stack
-: Jekyll, HTML/CSS
+**Tech Stack:**  
+Jekyll, HTML, CSS
