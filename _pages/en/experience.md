@@ -73,9 +73,9 @@ Worked on aerospace R&D systems in Japan, including UAS infrastructure, air traf
 ### Backend Engineer – Banking Payment Systems  
 **2019–2022**  
 **Company:** Finastra  
-**Product:** Payment Fusion
+**Product:** Fusion Payments System
 
-Worked on backend development for Payment Fusion, a banking payment platform used by large commercial banks worldwide.
+Worked on backend development for Fusion Payments System, a banking payment platform used by large commercial banks worldwide.
 
 **Responsibilities:**
 
@@ -128,6 +128,8 @@ AWS EC2, AWS Lambda, IAM, CloudWatch, Cost Explorer API, VPC, Elastic IP, Linux,
 
 ### IMU Noise Filtering and AR Integration  
 **Undergraduate Thesis, 2019**
+
+![award](../images/me2.png)
 
 Research project focused on improving motion tracking accuracy through sensor fusion and filtering algorithms.
 
