@@ -34,7 +34,7 @@ MQTT, IBM MQ, JSON APIs
 AWS EC2, AWS Lambda, IAM, CloudWatch, VPC, Elastic IP, Docker, Linux
 
 **Tools & Workflow:**  
-Git, Gradle, Jenkins, Postman, CI-based pull request workflow
+Jira, Git, Gradle, Jenkins, Postman, CI-based pull request workflow
 
 **Process:**  
 Japanese SDLC, 基本設計, 詳細設計, Agile Scrum
